@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyReverseEngeneeringTool.iml" filepath="$PROJECT_DIR$/MyReverseEngeneeringTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JarToUml.iml" filepath="$PROJECT_DIR$/.idea/modules/JarToUml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JarToUml.main.iml" filepath="$PROJECT_DIR$/.idea/modules/JarToUml.main.iml" />
     </modules>
   </component>
 </project>
