@@ -13,8 +13,8 @@ This Java tool analyzes `.jar` files and generates UML class diagrams using Java
 - Generates output as a text-based UML diagram in one of the supported formats, based on given configuration.
 
 ## ⚙️ How to Use
-Pass the path to jar as an argument in cmd line.
-For now, the configuration is hardcoded, will be changed in the future.
+Choose .jar file and see the plantUML diagram and generated text. (will implement yuml in the future)
+For now, the configuration is hardcoded. (will be changed in the future)
 
 ### Requirements:
 - Java 17+ recommended
@@ -23,4 +23,4 @@ For now, the configuration is hardcoded, will be changed in the future.
 ### Running:
 
 ```bash
-java -jar UMLGenerator.jar path/to/your.jar
+./gradlew run
